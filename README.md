@@ -1,4 +1,5 @@
-### 
+### Hi There!!
+I am Poornima
 
 <!--
 **Poornima-Nair/Poornima-Nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> Data Science Enthusiast
+--> Hi I am a computer engineer, currently working as a research analyst in a consulting firm and is highly passioante about data science.
